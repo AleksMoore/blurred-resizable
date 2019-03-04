@@ -1,2 +1,2 @@
-# blurred-resizable
-Blurred &amp; resizable
+# Blurred &amp; resizable
+
